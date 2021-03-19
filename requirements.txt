@@ -7,7 +7,7 @@ Django==2.2.8
 django-contrib-comments==1.9.1
 idna==2.8
 Markdown==3.1.1
-Pillow==6.0.0
+Pillow==8.1.1
 pycparser==2.19
 Pygments==2.4.2
 PyMySQL==0.9.3
